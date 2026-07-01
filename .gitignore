@@ -1,0 +1,17 @@
+# Muhit o'zgaruvchilari — MAXFIY, hech qachon repoga qo'ymang!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
